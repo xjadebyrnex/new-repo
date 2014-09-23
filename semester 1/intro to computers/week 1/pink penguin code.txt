@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel='stylesheet' href='style.css'/>
+	<script src='script.js'></script>
+</head>
+<body>
+
+</body>
+</html>
+<!DOCTYPE html>
+
+<html>
+   <head>
+         <title>
+		penguins
+		 </title>
+		 <style>
+		    body{
+			    background-color:blue;
+		    }
+	    </style>
+   </head>
+   <body>
+	pink pink
+   </body>
+</html>
+<!DOCTYPE html>
+<html>
+
+<body>
+ <h2>pink hair</h2>
+ <img src="http://epiphanniea.co.uk/wp-content/uploads/2013/07/superdrug_christmas_in_july_pink_penguin_wig.jpg" alt="Mountain View" style="width:304px;height:228px">
+</body>
+
+</html>
